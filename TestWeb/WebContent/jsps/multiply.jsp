@@ -22,7 +22,7 @@ $("#multipybutton").click(function(){
 });
 </script>
 <meta charset="ISO-8859-1">
-<title>Multiply two numbers  damnn easily</title>
+<title>Multiply two numbers  too easily</title>
 </head>
 <body>
 <form name = "f1">
