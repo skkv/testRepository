@@ -12,7 +12,7 @@ public class MathsController extends HttpServlet{
 		res.setContentType("text/plain");
 		res.setCharacterEncoding("UTF-8");
 		res.getWriter().write("Ajax output from backend service");
-		
+		//comment added in master directly
 		
 	}
 	
